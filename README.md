@@ -18,15 +18,20 @@ Profesional multidisciplinario con más de 15 años de trayectoria integrando op
 ---
 🛠️ Tecnologías y Herramientas
 Infraestructura y Redes:
+### 🛠️ Tecnologías y Herramientas
+
+**Infraestructura y Redes:**
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE1C25?style=flat-square&logo=fortinet&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-Cloud & Data:
+
+**Cloud & Data:**
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-Desarrollo & Automatización:
+
+**Desarrollo & Automatización:**
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
