@@ -44,5 +44,6 @@ Sistema ERP: ERP completo desarrollado con Spring Boot y SQL Server.
 ---
 <div align="center">
   <i>"La tecnología es solo una herramienta. Para que funcione, necesitas procesos, personas y una buena estrategia."</i>
-<img width="1067" height="725" alt="Captura de pantalla 2026-11-19 221405" src="https://github.com/user-attachments/assets/1396291a-ca4b-41d9-906d-2361f21a75f1" />
+<img width="1248" height="832" alt="A_professional_and_modern_tech_ecosystem_diagram_on_a_clean" src="https://github.com/user-attachments/assets/b7a9a2c9-8a7f-4585-ad49-d3f5fb48821d" />
+
 
