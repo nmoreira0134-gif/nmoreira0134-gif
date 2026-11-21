@@ -2,7 +2,7 @@
   <img width="457" height="462" alt="Captura de pantalla 2026-11-07 130858" src="https://github.com/user-attachments/assets/e7838224-9da7-407b-8db5-2b58c1ffcf79" />
 
 <h1>¡Hola! Soy Néstor Moreira 👋</h1>
-  <h3>Ingeniero en Sistemas | Infraestructura, Redes y Ciberseguridad</h3>
+  <h3>Ingeniero en Sistemas | Infraestructura Tecnologica, Logistica, Procesos, Seguridad Patrimonial</h3>
 <p>
     <a href="https://linkedin.com/in/nestormoreira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://nestor-moreira.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portafolio_Web-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio"></a>
